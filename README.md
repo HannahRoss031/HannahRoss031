@@ -46,4 +46,4 @@
 ---
 
 ## 📫 Connect with Me
-I’m always happy to connect, collaborate, and chat about technology, software engineering, and user-focused design. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hannah-ross) or explore my projects here on GitHub!
+I’m always happy to connect, collaborate, and chat about technology, software engineering, and user-focused design. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hannah-ross03/) or explore my projects here on GitHub!
