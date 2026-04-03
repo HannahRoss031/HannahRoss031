@@ -36,7 +36,7 @@
 ---
 
 ## 🌱 Currently Learning & Working On
-- Improving front-end and full-stack development skills.  
+- Improving front-end, full-stack, and software development skills.  
 - Building interactive, user-friendly web applications.  
 - Learning more about **Data Science and Machine Learning**.  
 
