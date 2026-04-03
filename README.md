@@ -1,8 +1,8 @@
 # 👋 Hello everyone, I'm Hannah Ross!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-ross)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hannah_Ross1@baylor.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://hannahross031.github.io/personal-website/)
 
 ---
 
@@ -25,14 +25,11 @@
 ## 🚀 Featured Projects
 
 <p>
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://img.shields.io/badge/Project1-View%20Code-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/HannahRoss031/personal-website.git">
+    <img src="https://img.shields.io/badge/Personal Website-View%20Code-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://img.shields.io/badge/Project2-View%20Code-green?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://img.shields.io/badge/Project3-View%20Code-orange?style=for-the-badge&logo=github" />
+  <a href="https://github.com/HannahRoss031/GUI-research-app.git">
+    <img src="https://img.shields.io/badge/GUI Research App-View%20Code-green?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -42,6 +39,15 @@
 - Improving front-end and full-stack development skills.  
 - Building interactive, user-friendly web applications.  
 - Learning more about **Data Science and Machine Learning**.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannahRoss031&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HannahRoss031&theme=default" />
+</p>
 
 ---
 
